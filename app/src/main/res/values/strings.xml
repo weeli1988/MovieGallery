@@ -1,0 +1,37 @@
+<resources>
+
+    <string name="app_name">MovieGallery</string>
+    <string name="app_name_in_app">Movie Gallery</string>
+
+    <!-- Login -->
+    <string name="login">Login</string>
+    <string name="username_colon">Username:</string>
+    <string name="username">Username</string>
+    <string name="password_colon">Password:</string>
+    <string name="password">Password</string>
+    <string name="username_is_empty">Username is empty!</string>
+    <string name="password_is_empty">Password is empty!</string>
+    <string name="username_password_invalid">Username/Password is invalid!</string>
+    <string name="login_successfully">Login successfully!</string>
+
+    <!-- Movie List -->
+    <string name="search_colon">Search:</string>
+    <string name="clear">Clear Search</string>
+    <string name="movie_name">Movie name</string>
+    <string name="filter_by_colon">Filter by:</string>
+    <string name="start_a_search">Start a search!</string>
+    <string name="movies_not_found">Movies not found!</string>
+    <string name="retrieve_data">Retrieving data..</string>
+    <string name="reload_data">Reloading data..</string>
+    <string name="unable_to_get_response">Unable to get response!</string>
+
+    <!-- Movie Detail -->
+    <string name="movie_detail">Movie Detail</string>
+
+    <!-- Search History -->
+    <string name="search_history">Search History</string>
+    <string name="unable_to_retrieve_history">Unable to retrieve search history</string>
+
+    <string name="trademark">2024 All Right Reserved.</string>
+
+</resources>

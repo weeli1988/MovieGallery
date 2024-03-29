@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="green">#3CB043</color>
+    <color name="orange">#F28944</color>
+    <color name="red">#FF0000</color>
+    <color name="red_a">#BF2F40</color>
+
+    <color name="trademark_color">#397BAE</color>
+
+    <color name="grey_a">#D4D4D4</color>
+    <color name="grey_b">#A1A1A1</color>
+    <color name="grey_c">#F2F2F2</color>
+
+</resources>
